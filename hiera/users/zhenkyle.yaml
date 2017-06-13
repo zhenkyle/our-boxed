@@ -8,6 +8,9 @@ boxen::personal::osx_apps:
 #  - spotify
 #  - things
 
-#boxen::personal::projects:
-#  - project_a
+#boxen::personal::includes:
+#  - projects::all
+
+boxen::personal::projects:
+  - shadowsocks_ruby
 #  - secret_project
