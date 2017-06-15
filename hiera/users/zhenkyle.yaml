@@ -6,6 +6,7 @@
 boxen::personal::osx_apps:
   - google-chrome
   - sublime-text
+  - logitech-options # homebrew::tap {'caskroom/drivers': }  first!
 #  - spotify
 #  - things
 
